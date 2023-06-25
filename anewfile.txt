@@ -3,4 +3,5 @@
 
 anewfile
 
+something. 
 This is the second change. 

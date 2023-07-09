@@ -1,0 +1,11 @@
+yesterday admin project was created. 
+to slide 96 on running capstone. 
+Working on MySQL for rest of today. 
+do not make inside admin dashboard.
+instructions for end of class 07-08 posted in Slack channel.
+using typescript.
+build command changes typescript into javascript. 
+
+homework is: 
+complete tasks as shown in the PowerPoint. 
+Complete tasks listed in GitHub under Sprint. 
